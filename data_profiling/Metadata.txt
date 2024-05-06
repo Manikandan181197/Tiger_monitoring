@@ -1,0 +1,5 @@
+IMD - Indian Meteorological Department
+JF - Winter
+MAM - Pre-monsoon
+JJAS - Southwest summer monsoon
+OND - Post-monsoon
